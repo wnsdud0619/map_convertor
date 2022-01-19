@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="lanelet2">
+  <node id="96135" visible="true" version="1" lat="35.65024413926" lon="128.3992646201">
+    <tag k="ele" v="46.765000000000001" />
+  </node>
+  <node id="96136" visible="true" version="1" lat="35.65014531481" lon="128.39912667671">
+    <tag k="ele" v="46.694000000000003" />
+  </node>
+  <way id="96134" visible="true" version="1">
+    <nd ref="96135" />
+    <nd ref="96136" />
+    <tag k="ID" v="A219AR140026 : A219AR140027" />
+  </way>
+</osm>

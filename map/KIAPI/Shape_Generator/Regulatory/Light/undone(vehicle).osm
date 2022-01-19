@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="lanelet2">
+  <node id="202598" visible="true" version="1" lat="35.64936447972" lon="128.39829985272">
+    <tag k="ele" v="53.323" />
+  </node>
+  <node id="202599" visible="true" version="1" lat="35.64937385483" lon="128.39828917041">
+    <tag k="ele" v="53.323" />
+  </node>
+  <node id="202601" visible="true" version="1" lat="35.64937825935" lon="128.39828415175">
+    <tag k="ele" v="53.265000000000001" />
+  </node>
+  <node id="202602" visible="true" version="1" lat="35.64938763445" lon="128.39827346943">
+    <tag k="ele" v="53.265000000000001" />
+  </node>
+  <way id="202597" visible="true" version="1">
+    <nd ref="202598" />
+    <nd ref="202599" />
+    <tag k="A2" v="-1" />
+    <tag k="C1" v="C119AR140024" />
+  </way>
+  <way id="202600" visible="true" version="1">
+    <nd ref="202601" />
+    <nd ref="202602" />
+    <tag k="A2" v="-1" />
+    <tag k="C1" v="C119AR140025" />
+  </way>
+</osm>

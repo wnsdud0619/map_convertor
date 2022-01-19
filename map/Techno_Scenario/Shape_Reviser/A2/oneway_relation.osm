@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="lanelet2">
+  <node id="94090" visible="true" version="1" lat="35.70321443806" lon="128.45798394177">
+    <tag k="ele" v="61.059000000000232" />
+  </node>
+  <node id="94091" visible="true" version="1" lat="35.7032224302" lon="128.4579848105">
+    <tag k="ele" v="61.131000000000348" />
+  </node>
+  <node id="94092" visible="true" version="1" lat="35.70322959372" lon="128.45798583425">
+    <tag k="ele" v="61.197000000006518" />
+  </node>
+  <node id="94093" visible="true" version="1" lat="35.70324385386" lon="128.45798904286">
+    <tag k="ele" v="61.336000000002095" />
+  </node>
+  <node id="94094" visible="true" version="1" lat="35.70325105021" lon="128.45799134864">
+    <tag k="ele" v="61.401999999993713" />
+  </node>
+  <node id="94095" visible="true" version="1" lat="35.70326868491" lon="128.45799710999">
+    <tag k="ele" v="61.5570000000071" />
+  </node>
+  <node id="94096" visible="true" version="1" lat="35.70328056995" lon="128.45800147324">
+    <tag k="ele" v="61.663000000006868" />
+  </node>
+  <node id="94097" visible="true" version="1" lat="35.70328557183" lon="128.45800299799">
+    <tag k="ele" v="61.669000000000004" />
+  </node>
+  <node id="94099" visible="true" version="1" lat="35.703218267" lon="128.45794694251">
+    <tag k="ele" v="61.011999999999993" />
+  </node>
+  <node id="94100" visible="true" version="1" lat="35.70322669432" lon="128.45795264781">
+    <tag k="ele" v="61.064000000004889" />
+  </node>
+  <node id="94101" visible="true" version="1" lat="35.70323959192" lon="128.45796362551">
+    <tag k="ele" v="61.231000000006169" />
+  </node>
+  <node id="94102" visible="true" version="1" lat="35.70325161254" lon="128.45797406751">
+    <tag k="ele" v="61.333999999994411" />
+  </node>
+  <node id="94103" visible="true" version="1" lat="35.70326276479" lon="128.45798388531">
+    <tag k="ele" v="61.464499999993713" />
+  </node>
+  <node id="94104" visible="true" version="1" lat="35.70327391703" lon="128.45799370312">
+    <tag k="ele" v="61.594999999993014" />
+  </node>
+  <node id="94105" visible="true" version="1" lat="35.70328557183" lon="128.45800299799">
+    <tag k="ele" v="61.669000000000004" />
+  </node>
+  <way id="94089" visible="true" version="1">
+    <nd ref="94090" />
+    <nd ref="94091" />
+    <nd ref="94092" />
+    <nd ref="94093" />
+    <nd ref="94094" />
+    <nd ref="94095" />
+    <nd ref="94096" />
+    <nd ref="94097" />
+  </way>
+  <way id="94098" visible="true" version="1">
+    <nd ref="94099" />
+    <nd ref="94100" />
+    <nd ref="94101" />
+    <nd ref="94102" />
+    <nd ref="94103" />
+    <nd ref="94104" />
+    <nd ref="94105" />
+  </way>
+</osm>
